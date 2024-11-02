@@ -66,7 +66,7 @@ If you don't understand something in the documentation, you are experiencing pro
 [guide-source]: https://github.com/discordjs/guide
 [guide-update]: https://discordjs.guide/additional-info/changes-in-v14.html
 [discord]: https://discord.gg/djs
-[discord-api]: https://discord.gg/discord-api
+[discord-api]: https://discord.gg/discord-api 
 [source]: https://github.com/discordjs/discord.js/tree/main/packages/discord.js
 [npm]: https://www.npmjs.com/package/discord.js
 [related-libs]: https://discord.com/developers/docs/topics/community-resources#libraries
